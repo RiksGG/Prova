@@ -1,0 +1,46 @@
+body{
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
+
+nav a{
+    color: rgb(70, 65, 65);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    font-weight:bolder
+}
+
+small{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+  
+}
+
+div a{
+    color: black;
+}
